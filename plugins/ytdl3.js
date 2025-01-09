@@ -23,7 +23,7 @@ cmd({
     if (!_0x180808) {
       return _0x2710af("*Please provide a video tital or url*");
     }
-    _0x2710af("> © ᴍaʟᴠɪɴ xᴍᴅ Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ❄️");
+    _0x2710af("> © ᴍoiz md Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ❄️");
     const _0x1c3fd5 = await yts(_0x180808);
     if (!_0x1c3fd5.videos || _0x1c3fd5.videos.length === 0x0) {
       return _0x2710af("❌ No results found for \"" + _0x180808 + "\".");
@@ -69,7 +69,7 @@ cmd({
     if (!_0x2b4b83) {
       return _0x31fd3f("*Please provide a audio tital or url*");
     }
-    _0x31fd3f("> © ᴍaʟᴠɪɴ xᴍᴅ Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...❄️");
+    _0x31fd3f("> © ᴍoiz md Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...❄️");
     const _0x116e0a = await yts(_0x2b4b83);
     if (!_0x116e0a.videos || _0x116e0a.videos.length === 0x0) {
       return _0x31fd3f("❌ No results found for \"" + _0x2b4b83 + "\".");
