@@ -1,23 +1,23 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN+XMD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=DARKZONE+XMD;MADE+BY+MR+MOIZ" alt="Typing SVG" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/7pg2gp.jpg?"/>
+src="https://files.catbox.moe/ledsf6.jpg?"/>
 
 <br>
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/xonezone"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"> <a h="https://wa.me/923259578429"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/xonezone/followers"><img title="Followers" src="https://img.shields.io/github/followers/xonezone?color=red&style=flat-square"></a>
+<a href="https://github.com/xonezone/DARKZONE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xomezone/DARKZONE-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-XMD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/kingmalvn/MALVIN-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-XMD?style=flat-square&color=green"></a>
