@@ -37,10 +37,10 @@
 ´´´´´´´´´´´´´´´´´´¶¶´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´¶¶´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´´´´´´´´´´´´´´´´´´´´
 ----------------
-https://github.com/kingmalvn/MALVIN-MD 
+https://github.com/xonezone/DARKZONE-MD 
 ----------------
  
-created by Malvin King 
+created by Mr moiz 
  DONT COPY
 */
 
@@ -69,7 +69,7 @@ let status = `*⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆*
 
 *╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷*
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*
+> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍr moiz*
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:`${status}`},{quoted:mek})
 
