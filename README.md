@@ -12,7 +12,7 @@ src="https://files.catbox.moe/ledsf6.jpg?"/>
 
    </p>
 <p align="center">
-<a href="https://github.com/xonezone"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"> <a h="https://wa.me/923259578429"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/xonezone"><img title="Author" src="https://img.shields.io/badge/DARKZONE-black?style=for-the-badge&logo=Github"> <a h="https://wa.me/923259578429"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
