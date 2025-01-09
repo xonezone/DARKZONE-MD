@@ -21,7 +21,7 @@ const url = data.url
     
 let desc = `
 ╭─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╮
-  *ᴍaʟᴠɪɴ ᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+  *DARKZONE ᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╯
 
 ➥ *ᴛɪᴛʟᴇ:* ${data.title} 
@@ -33,7 +33,7 @@ let desc = `
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅◊
  
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ ᴛᴇᴄʜ*
+> *© POWERED BY MR MOIZ*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -73,7 +73,7 @@ const url = data.url
     
 let desc = `
 ╭─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╮
-  *ᴍaʟᴠɪɴ ᴍᴅ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+  *DARKZONE ᴍᴅ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╯
 
 ➥ *ᴛɪᴛʟᴇ:* ${data.title} 
@@ -84,7 +84,7 @@ let desc = `
 
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅◊
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʟᴏʀᴅ xᴍᴅ*
+> *© CREATED BY DARKZONE-MD*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -96,7 +96,7 @@ let downloadUrl = down.dl_url
 
 //send video message
 await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍaʟᴠɪɴ ᴍᴅ*"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"> *© POWERED BY MR MOIZ*"},{quoted:mek})
 
 }catch(e){
 console.log(e)
