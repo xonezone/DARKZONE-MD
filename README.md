@@ -41,15 +41,10 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 **2. Second Step**
 
 <p align="left">
-<a href='https://pair-site-4aa42f6818d3.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
-**3. Use borrowed session If the above not working**
 
-<p align="left">
-<a href='https://seon-md-pair-ff9b3759e9a3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkblue?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
-
-<p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 𝗢𝗥 𝗔𝗗𝗗 𝗖𝗿𝗲𝗱𝘀.𝗷𝘀𝗼𝗻</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -73,17 +68,14 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 <p align="left">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
 
-**4. Netlify**
 
-<p align="left">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-green?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> 
 
-**5. Replit**
+**4. Replit**
 
 <p align="left">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
    
-**6. Github Workflow**
+**5. Github Workflow**
 
 
 <p align="center">
