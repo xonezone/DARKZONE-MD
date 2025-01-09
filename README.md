@@ -124,44 +124,23 @@ jobs:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-`✠ HOW TO DEPLOY MALVIN MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
--------------
-
-<p align="center">
-   <a href="https://youtu.be/C2tzcIJujyc?si=he7nPMYub4U48iUV"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
  ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME VIA WHATSAPP ITS ME Malvin ✠ King࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME VIA WHATSAPP ITS ME Mr✠ MOIZ࿐➺`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+92359578429?text=*ʜɪɪ+ᴍr moiz--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>  
-----------    
 
-`✠ IF YOU WANT MORE ABOUT MALVIN MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
 
----------
-
-<a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
-
------------
-
-`✠ IF YOU WANT MORE ABOUT MALVIN MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
-
-----------
-
-<a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
