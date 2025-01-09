@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=DARKZONE+XMD;MADE+BY+MR+MOIZ" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=DARKZONE+MD;MADE+BY+MR+MOIZ" alt="Typing SVG" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -17,12 +17,12 @@ src="https://files.catbox.moe/ledsf6.jpg?"/>
 
  <p align="center">
 <a href="https://github.com/xonezone/followers"><img title="Followers" src="https://img.shields.io/github/followers/xonezone?color=red&style=flat-square"></a>
-<a href="https://github.com/xonezone/DARKZONE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xomezone/DARKZONE-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-XMD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/xonezone/DARKZONE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xonezone/DARKZONE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/xonezone/DARKZONE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xomezone/DARKZONE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/xonezone/DARKZONE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xonezone/DARKZONE-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/xonezone/DARKZONE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/xonezone/DARKZONE-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kingmalvn/MALVIN-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/xonezone/DARKZONE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -36,7 +36,7 @@ src="https://files.catbox.moe/ledsf6.jpg?"/>
 
 
 <p align="left">
-<a href='https://github.com/kingmalvn/MALVIN-XMD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://github.com/xonezone/DARKZONE-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
 **2. Second Step** (_borrowed session_)
 
