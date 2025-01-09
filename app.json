@@ -1,7 +1,7 @@
 {
   "name": "DARKZONE-MD",
   "description": "WOLRD BEST MD WHATSAPP BOT",
-  "logo": "https://files.catbox.moe/7pg2gp.jpg",
+  "logo": "https://files.catbox.moe/veo8ei",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "ALIVE URL.",
       "required": true,
-      "value": "https://files.catbox.moe/7pg2gp.jpg"
+      "value": "https://files.catbox.moe/veo8ei"
     }, 
     
     "ALIVE_MSG": {
