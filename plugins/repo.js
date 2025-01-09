@@ -22,7 +22,7 @@ let dec = `*👋 Hello ${pushname}*
 
 > *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍoiz md*
 `
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/7pg2gp.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/cjvrrf.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
