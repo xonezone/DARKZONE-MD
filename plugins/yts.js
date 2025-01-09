@@ -37,10 +37,10 @@
 ´´´´´´´´´´´´´´´´´´¶¶´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´¶¶´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´¶¶¶¶´´¶¶¶¶¶´´¶¶¶¶´´´´´´´´´´´´´´´´´´´´´
 ----------------
-https://github.com/kingmalvn/MALVIN-MD 
+https://github.com/xonezone/DARKZONE-MD 
 ----------------
  
-created by Malvin King 
+created by Mr moiz 
  DONT COPY
 */
 
