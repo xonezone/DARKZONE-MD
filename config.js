@@ -23,6 +23,6 @@ GOOGLE_CX: process.env.GOOGLE_CX || "AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME",
 PASTEBIN_API_KEY: process.env.PASTEBIN_API_KEY || "uh8QvO6vQJGtIug9WvjdTAPx_ZAFJAxn",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 ///==================Do not change anything below=========================
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/7pg2gp.jpg", //do not change alive img url
-ALIVE_MSG: process.env.ALIVE_MSG || "ʜɪ ᴀᴍ ᴀʟɪᴠᴇ ɴᴏᴡ ᴀᴍ ᴍᴀʟᴠɪɴ xᴍᴅ ᴛʜᴇ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ🚀", // change alive msg if you wish
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/b1jk3e", //do not change alive img url
+ALIVE_MSG: process.env.ALIVE_MSG || "ʜɪ ᴀᴍ ᴀʟɪᴠᴇ ɴᴏᴡ ᴀᴍ darkzone MD ᴛʜᴇ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ🚀", // change alive msg if you wish
 };
