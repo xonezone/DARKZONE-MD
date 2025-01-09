@@ -12,7 +12,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/kingmalvn/MALVIN-MD.git'; 
+        const repoUrl = 'https://github.com/xonezone/DARKZONE-MD.git'; 
         const targetFolder = 'plugins'; 
         
         if (!fs.existsSync(targetFolder)) {
