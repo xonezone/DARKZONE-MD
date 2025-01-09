@@ -38,7 +38,7 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 <p align="left">
 <a href='https://github.com/kingmalvn/MALVIN-XMD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
-**2. Second Step**
+**2. Second Step** (_borrowed session_)
 
 <p align="left">
 <a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
