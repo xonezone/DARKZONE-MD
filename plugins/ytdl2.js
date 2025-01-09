@@ -23,7 +23,7 @@ cmd({
     if (!_0x180808) {
       return _0x2710af("*Please provide a video tital or url*");
     }
-    _0x2710af("> © ᴍaʟᴠɪɴ xᴍᴅ Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ❄️");
+    _0x2710af("> © ᴍoiz xᴍᴅ Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ... ❄️");
     const _0x1c3fd5 = await yts(_0x180808);
     if (!_0x1c3fd5.videos || _0x1c3fd5.videos.length === 0x0) {
       return _0x2710af("❌ No results found for \"" + _0x180808 + "\".");
