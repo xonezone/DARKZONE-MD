@@ -14,15 +14,9 @@ try{
 let dec = `*👋 Hello ${pushname}*
           
 
-*🇿🇼MALVIN-XMD Support Channels💗*
+👨‍💻◦ *Github Profile Link:* https://github.com/xonezone 
 
-👨‍💻◦ Whatsapp Channel Link:* https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
-
-👨‍💻◦ *Youtube Channel Link:* https://www.youtube.com/@malvintech2 
-
-👨‍💻◦ *Github Profile Link:* https://github.com/kingmalvn 
-
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ*
+> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍoiz *
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/7pg2gp.jpg`},caption:dec},{quoted:mek});
 
