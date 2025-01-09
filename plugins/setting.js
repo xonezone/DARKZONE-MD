@@ -30,7 +30,7 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 
 try{
-let madeSetting =`*[ • ᴍaʟᴠɪɴ xᴍ sᴇᴛᴛɪɴɢs • ]*
+let madeSetting =`*[ • ᴍoiz xᴍ sᴇᴛᴛɪɴɢs • ]*
 *╭┈┈┈┉┉┉┉┉┄┄┄┄┄┅┅┅┅┅┅┅┅┅┅*
 *┋* *➮ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┋* *➮ MODE:* ➠ ${config.MODE} 
@@ -50,7 +50,7 @@ let madeSetting =`*[ • ᴍaʟᴠɪɴ xᴍ sᴇᴛᴛɪɴɢs • ]*
 *┋* *➮ READ_MESSAGE:* ➠ ${config.READ_MESSAGE}
 *╰┈┈┉┉┉┉┉┉┉┄┄┄┄┅┅┅┅┅┅┅┅┅┅┅*
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ ᴍaʟᴠɪɴ
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ ᴍoiz
 `
 
 
