@@ -136,7 +136,7 @@ jobs:
 -------
 
 <p align="center">
-  <a href="https://wa.me/+92359578429?text=*ʜɪɪ+ᴍr moiz--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923259578429?text=*ʜɪɪ+ᴍr moiz--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
@@ -166,5 +166,5 @@ _I’m not responsible for you messing around and getting your account banned. A
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
 
 <p align="center">
-  <a href="https://wa.me/+923259578429?text=*ʜɪɪ+moiz--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923259578429?text=*ʜɪɪ+moiz--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZOME-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -black?style=for-the-badge&logo=whatsapp&logoColor=white" />
