@@ -81,23 +81,13 @@ console.log('𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴�
 
 let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
 
- ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍᴀʟᴠɪɴ ᴍᴅ
+ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ DARKZONE ᴍᴅ
 
 *🔹 ᴘʀᴇғɪx:* .
 
-*🔹 ᴏᴡɴᴇʀ:* 263714757857
+*🔹 ᴏᴡɴᴇʀ:* 923259578429
 
-*🖇️Join My WhatsApp Channels✓💗* 
-
-- : https://whatsapp.com/channel/0029VayTeumIN9io4KVkqx28
-
-- : https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
-
-*🖇️Subscribe My Youtube Channel✓💗*
-
- - : https://www.youtube.com/malvintech2
-
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ xᴍᴅ 🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ moiz 🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
 conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/n5vvij.jpg` }, caption: up })
 
 }
@@ -162,17 +152,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 //================ownerreact
-if(senderNumber.includes("263780934873")){
+if(senderNumber.includes("923259578429")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("263780934873")){
+if(senderNumber.includes("923259578429")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("263776388689")){
+if(senderNumber.includes("923259578429")){
 if(isReact) return
 m.react("🦋")
    }
