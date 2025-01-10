@@ -6,7 +6,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/ledsf6.jpg?"/>
+src="https://files.catbox.moe/be9wdw.jpg?"/>
 
 <br>
 
